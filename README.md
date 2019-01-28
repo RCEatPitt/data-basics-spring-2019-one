@@ -41,4 +41,4 @@ Instructional Team:
 * Upload these materials to your workspace by clicking this link: https://bit.ly/2Sd1IRL 
 
 
-* Launch these materials in [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/RCEatPitt/data-basics-spring-2019-one/master)
+* Launch these materials in [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/RCEatPitt/data-basics-spring-2019-one/master?urlpath=lab)
