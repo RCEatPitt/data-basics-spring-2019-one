@@ -38,5 +38,7 @@ Instructional Team:
 
 * **Bring a laptop (and power)**. You do not need to install any software, everythign will be running in the cloud.
 * We will be using the [Center for Research Computing](https://crc.pitt.edu/) services for hosting the course.
+* Upload these materials to your workspace by clicking this link: https://bit.ly/2Sd1IRL 
+
 
 * Launch these materials in [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/RCEatPitt/data-basics-spring-2019-one/master)
